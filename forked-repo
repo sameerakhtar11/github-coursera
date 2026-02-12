@@ -1,0 +1,4 @@
+[INSTRUCTION]: This file needs to contain the JSON output of the following command:
+curl -v https://api.github.com/repos/<YOUR_GITHUB_USERNAME>/mcino-Introduction-to-Git-and-GitHub
+
+Please run this command in your terminal (Git Bash or similar) and paste the output here replacing this text.
