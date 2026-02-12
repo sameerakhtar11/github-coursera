@@ -1,3 +1,5 @@
-﻿$ git branch -v
-  bug-fix-typo 4400ce9 Fix typo in README
-* main         4400ce9 Fix typo in README
+﻿git branch -v
+  bug-fix-revert d14c990 Ensure UTF-8 encoding for bug-fix-revert
+  bug-fix-typo   4400ce9 Fix typo
+* main           d14c990 Ensure UTF-8 encoding for bug-fix-revert
+
